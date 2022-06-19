@@ -1,0 +1,188 @@
+{
+  "game": {
+    "id": "6d4b942a-e32c-41cd-ac52-f33c85f273a0",
+    "timeout": 500
+  },
+  "turn": 1,
+  "board": {
+    "height": 11,
+    "width": 11,
+    "food": [
+      {
+        "x": 10,
+        "y": 5
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 6,
+        "y": 8
+      }
+    ],
+    "snakes": [
+      {
+        "id": "gs_VMXGkbgR6vGbKGcw3d8jcbBP",
+        "name": "snacky 2",
+        "health": 100,
+        "body": [
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 0,
+            "y": 4
+          },
+          {
+            "x": 0,
+            "y": 3
+          }
+        ],
+        "head": {
+          "x": 1,
+          "y": 4
+        },
+        "length": 3,
+        "shout": ""
+      },
+      {
+        "id": "gs_qJTy9WdGWHpbwbhtCvMbfg3f",
+        "name": "reference-snake",
+        "health": 61,
+        "body": [
+          {
+            "x": 8,
+            "y": 5
+          },
+          {
+            "x": 8,
+            "y": 4
+          },
+          {
+            "x": 8,
+            "y": 3
+          },
+          {
+            "x": 8,
+            "y": 2
+          },
+          {
+            "x": 8,
+            "y": 1
+          },
+          {
+            "x": 8,
+            "y": 0
+          }
+        ],
+        "head": {
+          "x": 8,
+          "y": 5
+        },
+        "length": 6,
+        "shout": "Faster"
+      },
+      {
+        "id": "gs_YW3PgHd8G7MjXFHqTtpWV4P7",
+        "name": "sssevendaysnake",
+        "health": 100,
+        "body": [
+          {
+            "x": 4,
+            "y": 1
+          },{
+            "x": 4,
+            "y": 0
+          },{
+            "x": 5,
+            "y": 0
+          },{
+            "x": 6,
+            "y": 0
+          },{
+            "x": 7,
+            "y": 0
+          },{
+            "x": 7,
+            "y": 1
+          }
+        ],
+        "head": {
+          "x": 4,
+          "y": 1
+        },
+        "length": 6,
+        "shout": "Faster"
+      },
+      {
+        "id": "gs_BbFVtFT7Qr3rRj3MxPwcXPwH",
+        "name": "bookworm",
+        "health": 100,
+        "body": [
+          {
+            "x": 9,
+            "y": 6
+          },{
+            "x": 10,
+            "y": 6
+          },{
+            "x": 10,
+            "y": 7
+          },{
+            "x": 9,
+            "y": 7
+          }
+        ],
+        "head": {
+          "x": 9,
+          "y": 6
+        },
+        "length": 4,
+        "shout": ""
+      }
+    ]
+  },
+  "you": {
+    "id": "gs_qJTy9WdGWHpbwbhtCvMbfg3f",
+    "name": "reference-snake",
+    "health": 61,
+    "body": [
+      {
+        "x": 8,
+        "y": 5
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 8,
+        "y": 3
+      },
+      {
+        "x": 8,
+        "y": 2
+      },
+      {
+        "x": 8,
+        "y": 1
+      },
+      {
+        "x": 8,
+        "y": 0
+      }
+    ],
+    "head": {
+      "x": 8,
+      "y": 5
+    },
+    "length": 6,
+    "shout": "Faster"
+  }
+}

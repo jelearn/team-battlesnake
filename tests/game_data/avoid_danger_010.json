@@ -1,0 +1,195 @@
+{
+    "game": {
+        "id": "14abf11d-8476-401f-a719-0277682ce63d",
+        "timeout": 500
+    },
+    "turn": 56,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 6,
+                "y": 7
+            },
+            {
+                "x": 0,
+                "y": 8
+            },
+            {
+                "x": 1,
+                "y": 4
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_GD6cKDRD3DXVVccVB3yB4jDH",
+                "name": "reference-snake",
+                "health": 95,
+                "body": [
+                    {
+                        "x": 9,
+                        "y": 9
+                    },
+                    {
+                        "x": 9,
+                        "y": 8
+                    },
+                    {
+                        "x": 9,
+                        "y": 7
+                    },
+                    {
+                        "x": 9,
+                        "y": 6
+                    },
+                    {
+                        "x": 9,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 9,
+                    "y": 9
+                },
+                "length": 5,
+                "shout": "Stronger"
+            },
+            {
+                "id": "gs_YHmpDGxpgjPPCpWQMGdr876H",
+                "name": "snacky 2",
+                "health": 93,
+                "body": [
+                    {
+                        "x": 5,
+                        "y": 3
+                    },
+                    {
+                        "x": 6,
+                        "y": 3
+                    },
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 5,
+                        "y": 4
+                    },
+                    {
+                        "x": 4,
+                        "y": 4
+                    },
+                    {
+                        "x": 4,
+                        "y": 5
+                    },
+                    {
+                        "x": 4,
+                        "y": 6
+                    },
+                    {
+                        "x": 5,
+                        "y": 6
+                    },
+                    {
+                        "x": 5,
+                        "y": 5
+                    },
+                    {
+                        "x": 6,
+                        "y": 5
+                    },
+                    {
+                        "x": 6,
+                        "y": 6
+                    }
+                ],
+                "head": {
+                    "x": 5,
+                    "y": 3
+                },
+                "length": 11,
+                "shout": ""
+            },
+            {
+                "id": "gs_SYMFvFcMFPCfC9KymfHXjjf6",
+                "name": "sssevendaysnake",
+                "health": 82,
+                "body": [
+                    {
+                        "x": 8,
+                        "y": 6
+                    },
+                    {
+                        "x": 8,
+                        "y": 5
+                    },
+                    {
+                        "x": 7,
+                        "y": 5
+                    },
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 3
+                    },
+                    {
+                        "x": 7,
+                        "y": 2
+                    },
+                    {
+                        "x": 6,
+                        "y": 2
+                    },
+                    {
+                        "x": 5,
+                        "y": 2
+                    }
+                ],
+                "head": {
+                    "x": 8,
+                    "y": 6
+                },
+                "length": 8,
+                "shout": "Stronger"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_GD6cKDRD3DXVVccVB3yB4jDH",
+        "name": "reference-snake",
+        "health": 95,
+        "body": [
+            {
+                "x": 9,
+                "y": 9
+            },
+            {
+                "x": 9,
+                "y": 8
+            },
+            {
+                "x": 9,
+                "y": 7
+            },
+            {
+                "x": 9,
+                "y": 6
+            },
+            {
+                "x": 9,
+                "y": 5
+            }
+        ],
+        "head": {
+            "x": 9,
+            "y": 9
+        },
+        "length": 5,
+        "shout": "Stronger"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "game": {
+        "id": "373917c5-3c97-4c31-b1d4-adedafd3b710",
+        "timeout": 500
+    },
+    "turn": 12,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 2,
+                "y": 8
+            },
+            {
+                "x": 4,
+                "y": 1
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_BqcJdqJ3jSjcFvvXJgH7yQy8",
+                "name": "snacky 2",
+                "health": 88,
+                "body": [
+                    {
+                        "x": 2,
+                        "y": 10
+                    },
+                    {
+                        "x": 2,
+                        "y": 9
+                    },
+                    {
+                        "x": 3,
+                        "y": 9
+                    }
+                ],
+                "head": {
+                    "x": 2,
+                    "y": 10
+                },
+                "length": 3,
+                "shout": ""
+            },
+            {
+                "id": "gs_bXhCYMSDTYPGc8pjbtYm9jYT",
+                "name": "reference-snake",
+                "health": 88,
+                "body": [
+                    {
+                        "x": 0,
+                        "y": 8
+                    },
+                    {
+                        "x": 1,
+                        "y": 8
+                    },
+                    {
+                        "x": 1,
+                        "y": 7
+                    }
+                ],
+                "head": {
+                    "x": 0,
+                    "y": 8
+                },
+                "length": 3,
+                "shout": "Makes us"
+            },
+            {
+                "id": "gs_r3Q8PPJYWSb9GX4Gjf6R6mRR",
+                "name": "sssevendaysnake",
+                "health": 97,
+                "body": [
+                    {
+                        "x": 7,
+                        "y": 1
+                    },
+                    {
+                        "x": 8,
+                        "y": 1
+                    },
+                    {
+                        "x": 9,
+                        "y": 1
+                    },
+                    {
+                        "x": 10,
+                        "y": 1
+                    },
+                    {
+                        "x": 10,
+                        "y": 2
+                    },
+                    {
+                        "x": 10,
+                        "y": 3
+                    }
+                ],
+                "head": {
+                    "x": 7,
+                    "y": 1
+                },
+                "length": 6,
+                "shout": "Makes us"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_bXhCYMSDTYPGc8pjbtYm9jYT",
+        "name": "reference-snake",
+        "health": 88,
+        "body": [
+            {
+                "x": 0,
+                "y": 8
+            },
+            {
+                "x": 1,
+                "y": 8
+            },
+            {
+                "x": 1,
+                "y": 7
+            }
+        ],
+        "head": {
+            "x": 0,
+            "y": 8
+        },
+        "length": 3,
+        "shout": "Makes us"
+    }
+}

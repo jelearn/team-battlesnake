@@ -1,0 +1,162 @@
+{
+    "game": {
+        "id": "8e2cd1cc-1e8f-481d-b9dd-c4d2295311fc",
+        "timeout": 500
+    },
+    "turn": 96,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 8,
+                "y": 10
+            },
+            {
+                "x": 9,
+                "y": 3
+            },
+            {
+                "x": 6,
+                "y": 5
+            },
+            {
+                "x": 7,
+                "y": 0
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_P6JmyWbrrSxPcwWJ8PDFkyDS",
+                "name": "hhhotdaysssnake",
+                "health": 88,
+                "body": [
+                    {
+                        "x": 8,
+                        "y": 2
+                    },
+                    {
+                        "x": 7,
+                        "y": 2
+                    },
+                    {
+                        "x": 7,
+                        "y": 3
+                    },
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 5
+                    },
+                    {
+                        "x": 7,
+                        "y": 6
+                    },
+                    {
+                        "x": 7,
+                        "y": 7
+                    },
+                    {
+                        "x": 8,
+                        "y": 7
+                    },
+                    {
+                        "x": 9,
+                        "y": 7
+                    }
+                ],
+                "head": {
+                    "x": 8,
+                    "y": 2
+                },
+                "length": 9,
+                "shout": "Stronger"
+            },
+            {
+                "id": "gs_wCpSTvpRC6DSk6YkkFQdHVJW",
+                "name": "test-snake",
+                "health": 91,
+                "body": [
+                    {
+                        "x": 6,
+                        "y": 0
+                    },
+                    {
+                        "x": 6,
+                        "y": 1
+                    },
+                    {
+                        "x": 5,
+                        "y": 1
+                    },
+                    {
+                        "x": 4,
+                        "y": 1
+                    },
+                    {
+                        "x": 3,
+                        "y": 1
+                    },
+                    {
+                        "x": 2,
+                        "y": 1
+                    },
+                    {
+                        "x": 2,
+                        "y": 2
+                    }
+                ],
+                "head": {
+                    "x": 6,
+                    "y": 0
+                },
+                "length": 7,
+                "shout": "Stronger"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_wCpSTvpRC6DSk6YkkFQdHVJW",
+        "name": "test-snake",
+        "health": 91,
+        "body": [
+            {
+                "x": 6,
+                "y": 0
+            },
+            {
+                "x": 6,
+                "y": 1
+            },
+            {
+                "x": 5,
+                "y": 1
+            },
+            {
+                "x": 4,
+                "y": 1
+            },
+            {
+                "x": 3,
+                "y": 1
+            },
+            {
+                "x": 2,
+                "y": 1
+            },
+            {
+                "x": 2,
+                "y": 2
+            }
+        ],
+        "head": {
+            "x": 6,
+            "y": 0
+        },
+        "length": 7,
+        "shout": "Stronger"
+    }
+}

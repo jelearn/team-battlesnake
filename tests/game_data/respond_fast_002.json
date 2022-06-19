@@ -1,0 +1,130 @@
+{
+  "game": {
+    "id": "2f939f5b-3a89-4fdf-a690-2d00a5e1a8ed",
+    "timeout": 500
+  },
+  "turn": 25,
+  "board": {
+    "height": 11,
+    "width": 11,
+    "food": [
+      {
+        "x": 10,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 7
+      },
+      {
+        "x": 9,
+        "y": 6
+      },
+      {
+        "x": 3,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "snakes": [
+      {
+        "id": "gs_hRjb7dGWXHVhT6HtQbpvgqrb",
+        "name": "hhhotdaysssnake",
+        "health": 94,
+        "body": [
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 1,
+            "y": 2
+          },
+          {
+            "x": 2,
+            "y": 2
+          },
+          {
+            "x": 3,
+            "y": 2
+          }
+        ],
+        "head": {
+          "x": 1,
+          "y": 4
+        },
+        "length": 5,
+        "shout": ""
+      },
+      {
+        "id": "gs_8kCcvWYyJMFPDMgh38HYwhgF",
+        "name": "snacky",
+        "health": 94,
+        "body": [
+          {
+            "x": 1,
+            "y": 6
+          },
+          {
+            "x": 1,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 4
+          }
+        ],
+        "head": {
+          "x": 1,
+          "y": 6
+        },
+        "length": 4,
+        "shout": ""
+      }
+    ]
+  },
+  "you": {
+    "id": "gs_hRjb7dGWXHVhT6HtQbpvgqrb",
+    "name": "hhhotdaysssnake",
+    "health": 94,
+    "body": [
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 2,
+        "y": 2
+      },
+      {
+        "x": 3,
+        "y": 2
+      }
+    ],
+    "head": {
+      "x": 1,
+      "y": 4
+    },
+    "length": 5,
+    "shout": ""
+  }
+}

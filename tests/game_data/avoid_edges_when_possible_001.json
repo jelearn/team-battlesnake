@@ -1,0 +1,147 @@
+{
+    "game": {
+        "id": "1536d573-055a-4176-8e8c-c1d54a872476",
+        "timeout": 500
+    },
+    "turn": 12,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 5,
+                "y": 8
+            },
+            {
+                "x": 2,
+                "y": 8
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_TWyXM3T76kbftPvWBqJW38xG",
+                "name": "snacky",
+                "health": 98,
+                "body": [
+                    {
+                        "x": 2,
+                        "y": 4
+                    },
+                    {
+                        "x": 2,
+                        "y": 3
+                    },
+                    {
+                        "x": 2,
+                        "y": 2
+                    },
+                    {
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "x": 4,
+                        "y": 2
+                    }
+                ],
+                "head": {
+                    "x": 2,
+                    "y": 4
+                },
+                "length": 5,
+                "shout": ""
+            },
+            {
+                "id": "gs_f9f3YP8MCfQmqP6k9yQrjx8D",
+                "name": "hhhotdaysssnake",
+                "health": 90,
+                "body": [
+                    {
+                        "x": 9,
+                        "y": 5
+                    },
+                    {
+                        "x": 9,
+                        "y": 4
+                    },
+                    {
+                        "x": 9,
+                        "y": 3
+                    },
+                    {
+                        "x": 8,
+                        "y": 3
+                    }
+                ],
+                "head": {
+                    "x": 9,
+                    "y": 5
+                },
+                "length": 4,
+                "shout": "Makes us"
+            },
+            {
+                "id": "gs_gTTkj9jDhy947YRxBVy4wBRY",
+                "name": "sssevendaysnake",
+                "health": 96,
+                "body": [
+                    {
+                        "x": 5,
+                        "y": 1
+                    },
+                    {
+                        "x": 4,
+                        "y": 1
+                    },
+                    {
+                        "x": 4,
+                        "y": 0
+                    },
+                    {
+                        "x": 5,
+                        "y": 0
+                    },
+                    {
+                        "x": 6,
+                        "y": 0
+                    }
+                ],
+                "head": {
+                    "x": 5,
+                    "y": 1
+                },
+                "length": 5,
+                "shout": "Makes us"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_f9f3YP8MCfQmqP6k9yQrjx8D",
+        "name": "hhhotdaysssnake",
+        "health": 90,
+        "body": [
+            {
+                "x": 9,
+                "y": 5
+            },
+            {
+                "x": 9,
+                "y": 4
+            },
+            {
+                "x": 9,
+                "y": 3
+            },
+            {
+                "x": 8,
+                "y": 3
+            }
+        ],
+        "head": {
+            "x": 9,
+            "y": 5
+        },
+        "length": 4,
+        "shout": "Makes us"
+    }
+}

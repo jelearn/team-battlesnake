@@ -1,0 +1,215 @@
+{
+  "game": {
+    "id": "b69fe97d-5a18-4b9d-8de1-450add2ceaaa",
+    "timeout": 500
+  },
+  "turn": 84,
+  "board": {
+    "height": 11,
+    "width": 11,
+    "food": [
+      {
+        "x": 9,
+        "y": 5
+      },
+      {
+        "x": 5,
+        "y": 3
+      },
+      {
+        "x": 5,
+        "y": 8
+      },
+      {
+        "x": 3,
+        "y": 7
+      }
+    ],
+    "snakes": [
+      {
+        "id": "gs_f9wXkcBkFSRFPqSkFKJ4RJXM",
+        "name": "hhhotdaysssnake",
+        "health": 73,
+        "body": [
+          {
+            "x": 1,
+            "y": 9
+          },
+          {
+            "x": 2,
+            "y": 9
+          },
+          {
+            "x": 3,
+            "y": 9
+          },
+          {
+            "x": 4,
+            "y": 9
+          },
+          {
+            "x": 4,
+            "y": 8
+          },
+          {
+            "x": 4,
+            "y": 7
+          }
+        ],
+        "head": {
+          "x": 1,
+          "y": 9
+        },
+        "length": 6,
+        "shout": "Makes us"
+      },
+      {
+        "id": "gs_pxbSQVDVXKVXf7RfY7YFvFRc",
+        "name": "test-snake",
+        "health": 82,
+        "body": [
+          {
+            "x": 7,
+            "y": 9
+          },
+          {
+            "x": 7,
+            "y": 8
+          },
+          {
+            "x": 7,
+            "y": 7
+          },
+          {
+            "x": 7,
+            "y": 6
+          },
+          {
+            "x": 7,
+            "y": 5
+          },
+          {
+            "x": 7,
+            "y": 4
+          },
+          {
+            "x": 7,
+            "y": 3
+          },
+          {
+            "x": 8,
+            "y": 3
+          },
+          {
+            "x": 9,
+            "y": 3
+          },
+          {
+            "x": 10,
+            "y": 3
+          }
+        ],
+        "head": {
+          "x": 7,
+          "y": 9
+        },
+        "length": 10,
+        "shout": "Makes us"
+      },
+      {
+        "id": "gs_rb6HjXPmj6dC7K4KyYGkcpM7",
+        "name": "Bookworm",
+        "health": 90,
+        "body": [
+          {
+            "x": 6,
+            "y": 2
+          },
+          {
+            "x": 7,
+            "y": 2
+          },
+          {
+            "x": 7,
+            "y": 1
+          },
+          {
+            "x": 6,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 1
+          },
+          {
+            "x": 5,
+            "y": 0
+          },
+          {
+            "x": 6,
+            "y": 0
+          }
+        ],
+        "head": {
+          "x": 6,
+          "y": 2
+        },
+        "length": 7,
+        "shout": ""
+      }
+    ]
+  },
+  "you": {
+    "id": "gs_pxbSQVDVXKVXf7RfY7YFvFRc",
+    "name": "test-snake",
+    "health": 82,
+    "body": [
+      {
+        "x": 7,
+        "y": 9
+      },
+      {
+        "x": 7,
+        "y": 8
+      },
+      {
+        "x": 7,
+        "y": 7
+      },
+      {
+        "x": 7,
+        "y": 6
+      },
+      {
+        "x": 7,
+        "y": 5
+      },
+      {
+        "x": 7,
+        "y": 4
+      },
+      {
+        "x": 7,
+        "y": 3
+      },
+      {
+        "x": 8,
+        "y": 3
+      },
+      {
+        "x": 9,
+        "y": 3
+      },
+      {
+        "x": 10,
+        "y": 3
+      }
+    ],
+    "head": {
+      "x": 7,
+      "y": 9
+    },
+    "length": 10,
+    "shout": "Makes us"
+  }
+}

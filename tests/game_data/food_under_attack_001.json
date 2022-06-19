@@ -1,0 +1,135 @@
+{
+    "game": {
+        "id": "8c36af59-708b-43af-9115-deadf88dfd40",
+        "timeout": 500
+    },
+    "turn": 14,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 4,
+                "y": 0
+            },
+            {
+                "x": 10,
+                "y": 10
+            },
+            {
+                "x": 5,
+                "y": 0
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_pVd6fdRwSBbkgvTDQPTfmvGT",
+                "name": "sssevendaysnake",
+                "health": 92,
+                "body": [
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 8,
+                        "y": 4
+                    },
+                    {
+                        "x": 8,
+                        "y": 3
+                    }
+                ],
+                "head": {
+                    "x": 6,
+                    "y": 4
+                },
+                "length": 4,
+                "shout": "Better"
+            },
+            {
+                "id": "gs_rHqmSXRQGyfCytFHPDXtC3BR",
+                "name": "reference-snake",
+                "health": 86,
+                "body": [
+                    {
+                        "x": 5,
+                        "y": 1
+                    },
+                    {
+                        "x": 4,
+                        "y": 1
+                    },
+                    {
+                        "x": 3,
+                        "y": 1
+                    }
+                ],
+                "head": {
+                    "x": 5,
+                    "y": 1
+                },
+                "length": 3,
+                "shout": "Better"
+            },
+            {
+                "id": "gs_FYP6SP9Cg9fP3TVYt7BCyfY3",
+                "name": "snacky 2",
+                "health": 95,
+                "body": [
+                    {
+                        "x": 4,
+                        "y": 2
+                    },
+                    {
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "x": 2,
+                        "y": 2
+                    },
+                    {
+                        "x": 2,
+                        "y": 3
+                    }
+                ],
+                "head": {
+                    "x": 4,
+                    "y": 2
+                },
+                "length": 4,
+                "shout": ""
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_rHqmSXRQGyfCytFHPDXtC3BR",
+        "name": "reference-snake",
+        "health": 86,
+        "body": [
+            {
+                "x": 5,
+                "y": 1
+            },
+            {
+                "x": 4,
+                "y": 1
+            },
+            {
+                "x": 3,
+                "y": 1
+            }
+        ],
+        "head": {
+            "x": 5,
+            "y": 1
+        },
+        "length": 3,
+        "shout": "Better"
+    }
+}

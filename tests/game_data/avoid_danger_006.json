@@ -1,0 +1,170 @@
+{
+    "game": {
+        "id": "6e004052-707e-42fa-bee7-f88bbaee7ca7",
+        "timeout": 500
+    },
+    "turn": 97,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 0,
+                "y": 0
+            },
+            {
+                "x": 3,
+                "y": 6
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_GyGkdpKdCX4FJbgrBWmmccfd",
+                "name": "reference-snake",
+                "health": 89,
+                "body": [
+                    {
+                        "x": 1,
+                        "y": 0
+                    },
+                    {
+                        "x": 1,
+                        "y": 1
+                    },
+                    {
+                        "x": 2,
+                        "y": 1
+                    },
+                    {
+                        "x": 3,
+                        "y": 1
+                    },
+                    {
+                        "x": 4,
+                        "y": 1
+                    },
+                    {
+                        "x": 5,
+                        "y": 1
+                    },
+                    {
+                        "x": 6,
+                        "y": 1
+                    },
+                    {
+                        "x": 7,
+                        "y": 1
+                    }
+                ],
+                "head": {
+                    "x": 1,
+                    "y": 0
+                },
+                "length": 8,
+                "shout": "Work it"
+            },
+            {
+                "id": "gs_D67XrtCXYct7WSdQyCPDGyGX",
+                "name": "snacky",
+                "health": 99,
+                "body": [
+                    {
+                        "x": 0,
+                        "y": 3
+                    },
+                    {
+                        "x": 0,
+                        "y": 4
+                    },
+                    {
+                        "x": 1,
+                        "y": 4
+                    },
+                    {
+                        "x": 2,
+                        "y": 4
+                    },
+                    {
+                        "x": 3,
+                        "y": 4
+                    },
+                    {
+                        "x": 3,
+                        "y": 3
+                    },
+                    {
+                        "x": 4,
+                        "y": 3
+                    },
+                    {
+                        "x": 4,
+                        "y": 4
+                    },
+                    {
+                        "x": 5,
+                        "y": 4
+                    },
+                    {
+                        "x": 5,
+                        "y": 5
+                    },
+                    {
+                        "x": 5,
+                        "y": 6
+                    }
+                ],
+                "head": {
+                    "x": 0,
+                    "y": 3
+                },
+                "length": 11,
+                "shout": ""
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_GyGkdpKdCX4FJbgrBWmmccfd",
+        "name": "reference-snake",
+        "health": 89,
+        "body": [
+            {
+                "x": 1,
+                "y": 0
+            },
+            {
+                "x": 1,
+                "y": 1
+            },
+            {
+                "x": 2,
+                "y": 1
+            },
+            {
+                "x": 3,
+                "y": 1
+            },
+            {
+                "x": 4,
+                "y": 1
+            },
+            {
+                "x": 5,
+                "y": 1
+            },
+            {
+                "x": 6,
+                "y": 1
+            },
+            {
+                "x": 7,
+                "y": 1
+            }
+        ],
+        "head": {
+            "x": 1,
+            "y": 0
+        },
+        "length": 8,
+        "shout": "Work it"
+    }
+}

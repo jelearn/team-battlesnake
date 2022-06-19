@@ -1,0 +1,147 @@
+{
+    "game": {
+        "id": "5baa91df-eb74-4fe7-9381-8efd28ae4f3d",
+        "timeout": 500
+    },
+    "turn": 57,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 0,
+                "y": 10
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_vmHd9Y9J3QRMWd8tQXhkgrW9",
+                "name": "sssevendaysnake",
+                "health": 99,
+                "body": [
+                    {
+                        "x": 9,
+                        "y": 0
+                    },
+                    {
+                        "x": 10,
+                        "y": 0
+                    },
+                    {
+                        "x": 10,
+                        "y": 1
+                    },
+                    {
+                        "x": 9,
+                        "y": 1
+                    },
+                    {
+                        "x": 9,
+                        "y": 2
+                    },
+                    {
+                        "x": 8,
+                        "y": 2
+                    }
+                ],
+                "head": {
+                    "x": 9,
+                    "y": 0
+                },
+                "length": 6,
+                "shout": "Work it"
+            },
+            {
+                "id": "gs_GkbvSQqMwbgykMBm7fWJVKf8",
+                "name": "snacky 2",
+                "health": 62,
+                "body": [
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 6,
+                        "y": 5
+                    },
+                    {
+                        "x": 5,
+                        "y": 5
+                    },
+                    {
+                        "x": 5,
+                        "y": 6
+                    }
+                ],
+                "head": {
+                    "x": 7,
+                    "y": 4
+                },
+                "length": 5,
+                "shout": ""
+            },
+            {
+                "id": "gs_xSp36gwKmHGyVHmCJDF9Hbg6",
+                "name": "reference-snake",
+                "health": 64,
+                "body": [
+                    {
+                        "x": 8,
+                        "y": 3
+                    },
+                    {
+                        "x": 8,
+                        "y": 4
+                    },
+                    {
+                        "x": 9,
+                        "y": 4
+                    },
+                    {
+                        "x": 9,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 8,
+                    "y": 3
+                },
+                "length": 4,
+                "shout": "Work it"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_xSp36gwKmHGyVHmCJDF9Hbg6",
+        "name": "reference-snake",
+        "health": 64,
+        "body": [
+            {
+                "x": 8,
+                "y": 3
+            },
+            {
+                "x": 8,
+                "y": 4
+            },
+            {
+                "x": 9,
+                "y": 4
+            },
+            {
+                "x": 9,
+                "y": 5
+            }
+        ],
+        "head": {
+            "x": 8,
+            "y": 3
+        },
+        "length": 4,
+        "shout": "Work it"
+    }
+}

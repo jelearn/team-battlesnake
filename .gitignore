@@ -1,0 +1,23 @@
+# Editors
+*~
+*.swp
+*.swo
+.cmd
+.idea
+.vscode
+
+# Python cache/runtime artifacts
+*.pyc
+__pycache__
+__handlers__
+venv
+
+# pytest artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python build-related artifacts
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,164 @@
+{
+    "game": {
+        "id": "a6ccedf7-dc5f-448d-98ae-41d3e80fb790",
+        "timeout": 500
+    },
+    "turn": 14,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 0,
+                "y": 9
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_8fqtJP8gpTckpRSwFwwmTPgd",
+                "name": "snacky 2",
+                "health": 86,
+                "body": [
+                    {
+                        "x": 6,
+                        "y": 6
+                    },
+                    {
+                        "x": 5,
+                        "y": 6
+                    },
+                    {
+                        "x": 5,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 6,
+                    "y": 6
+                },
+                "length": 3,
+                "shout": ""
+            },
+            {
+                "id": "gs_8CVHCgK4TmgdqmjyymY7MRqQ",
+                "name": "sssevendaysnake",
+                "health": 86,
+                "body": [
+                    {
+                        "x": 1,
+                        "y": 5
+                    },
+                    {
+                        "x": 1,
+                        "y": 4
+                    },
+                    {
+                        "x": 1,
+                        "y": 3
+                    }
+                ],
+                "head": {
+                    "x": 1,
+                    "y": 5
+                },
+                "length": 3,
+                "shout": "Better"
+            },
+            {
+                "id": "gs_QgMWVHJmDfGQwvwSQc44fMm7",
+                "name": "hhhotdaysssnake",
+                "health": 100,
+                "body": [
+                    {
+                        "x": 10,
+                        "y": 6
+                    },
+                    {
+                        "x": 10,
+                        "y": 7
+                    },
+                    {
+                        "x": 9,
+                        "y": 7
+                    },
+                    {
+                        "x": 9,
+                        "y": 7
+                    }
+                ],
+                "head": {
+                    "x": 10,
+                    "y": 6
+                },
+                "length": 4,
+                "shout": "Better"
+            },
+            {
+                "id": "gs_cBRRbGW47P4bq8XrPWGDb7MB",
+                "name": "snacky",
+                "health": 93,
+                "body": [
+                    {
+                        "x": 8,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 3
+                    },
+                    {
+                        "x": 6,
+                        "y": 3
+                    },
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 6,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 8,
+                    "y": 4
+                },
+                "length": 6,
+                "shout": ""
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_QgMWVHJmDfGQwvwSQc44fMm7",
+        "name": "hhhotdaysssnake",
+        "health": 100,
+        "body": [
+            {
+                "x": 10,
+                "y": 6
+            },
+            {
+                "x": 10,
+                "y": 7
+            },
+            {
+                "x": 9,
+                "y": 7
+            },
+            {
+                "x": 9,
+                "y": 7
+            }
+        ],
+        "head": {
+            "x": 10,
+            "y": 6
+        },
+        "length": 4,
+        "shout": "Better"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "game": {
+        "id": "432691be-831d-4946-8c16-ca45efc0fee2",
+        "timeout": 500
+    },
+    "turn": 29,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 9,
+                "y": 3
+            },
+            {
+                "x": 7,
+                "y": 10
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_Bg8rqDbqPqkfWgMPWMrSx3vW",
+                "name": "reference-snake",
+                "health": 96,
+                "body": [
+                    {
+                        "x": 0,
+                        "y": 9
+                    },
+                    {
+                        "x": 1,
+                        "y": 9
+                    },
+                    {
+                        "x": 1,
+                        "y": 8
+                    },
+                    {
+                        "x": 1,
+                        "y": 7
+                    }
+                ],
+                "head": {
+                    "x": 0,
+                    "y": 9
+                },
+                "length": 4,
+                "shout": "Harder"
+            },
+            {
+                "id": "gs_KpQy7BT86kScBcgCPTtKqyjH",
+                "name": "sssevendaysnake",
+                "health": 78,
+                "body": [
+                    {
+                        "x": 2,
+                        "y": 9
+                    },
+                    {
+                        "x": 2,
+                        "y": 8
+                    },
+                    {
+                        "x": 2,
+                        "y": 7
+                    },
+                    {
+                        "x": 3,
+                        "y": 7
+                    },
+                    {
+                        "x": 3,
+                        "y": 8
+                    }
+                ],
+                "head": {
+                    "x": 2,
+                    "y": 9
+                },
+                "length": 5,
+                "shout": "Harder"
+            },
+            {
+                "id": "gs_y3HqTgyBgSH6bfX3JCwMXrVC",
+                "name": "snacky",
+                "health": 88,
+                "body": [
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 5,
+                        "y": 4
+                    },
+                    {
+                        "x": 4,
+                        "y": 4
+                    },
+                    {
+                        "x": 4,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 7,
+                    "y": 4
+                },
+                "length": 5,
+                "shout": ""
+            },
+            {
+                "id": "gs_p7S7Rg3vx7gqFMRcQBY8fRFP",
+                "name": "snacky 2",
+                "health": 74,
+                "body": [
+                    {
+                        "x": 8,
+                        "y": 3
+                    },
+                    {
+                        "x": 8,
+                        "y": 4
+                    },
+                    {
+                        "x": 8,
+                        "y": 5
+                    },
+                    {
+                        "x": 8,
+                        "y": 6
+                    }
+                ],
+                "head": {
+                    "x": 8,
+                    "y": 3
+                },
+                "length": 4,
+                "shout": ""
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_Bg8rqDbqPqkfWgMPWMrSx3vW",
+        "name": "reference-snake",
+        "health": 96,
+        "body": [
+            {
+                "x": 0,
+                "y": 9
+            },
+            {
+                "x": 1,
+                "y": 9
+            },
+            {
+                "x": 1,
+                "y": 8
+            },
+            {
+                "x": 1,
+                "y": 7
+            }
+        ],
+        "head": {
+            "x": 0,
+            "y": 9
+        },
+        "length": 4,
+        "shout": "Harder"
+    }
+}

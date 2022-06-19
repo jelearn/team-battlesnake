@@ -1,0 +1,172 @@
+{
+    "game": {
+        "id": "8539de6f-dce3-4046-a4ad-fad44b482400",
+        "timeout": 500
+    },
+    "turn": 20,
+    "board": {
+        "height": 11,
+        "width": 11,
+        "food": [
+            {
+                "x": 2,
+                "y": 2
+            },
+            {
+                "x": 1,
+                "y": 1
+            }
+        ],
+        "snakes": [
+            {
+                "id": "gs_K7grMvTHyqBfqKCChCFYx3vX",
+                "name": "snacky 2",
+                "health": 86,
+                "body": [
+                    {
+                        "x": 4,
+                        "y": 4
+                    },
+                    {
+                        "x": 5,
+                        "y": 4
+                    },
+                    {
+                        "x": 6,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 4
+                    },
+                    {
+                        "x": 7,
+                        "y": 5
+                    }
+                ],
+                "head": {
+                    "x": 4,
+                    "y": 4
+                },
+                "length": 5,
+                "shout": ""
+            },
+            {
+                "id": "gs_TYqcW6QxYkBmTrrMVBWrWrv8",
+                "name": "snacky",
+                "health": 96,
+                "body": [
+                    {
+                        "x": 5,
+                        "y": 7
+                    },
+                    {
+                        "x": 6,
+                        "y": 7
+                    },
+                    {
+                        "x": 7,
+                        "y": 7
+                    },
+                    {
+                        "x": 8,
+                        "y": 7
+                    },
+                    {
+                        "x": 8,
+                        "y": 6
+                    }
+                ],
+                "head": {
+                    "x": 5,
+                    "y": 7
+                },
+                "length": 5,
+                "shout": ""
+            },
+            {
+                "id": "gs_G8yppccPKbKYxTrqPKvb3TVH",
+                "name": "sssevendaysnake",
+                "health": 90,
+                "body": [
+                    {
+                        "x": 1,
+                        "y": 9
+                    },
+                    {
+                        "x": 1,
+                        "y": 10
+                    },
+                    {
+                        "x": 0,
+                        "y": 10
+                    },
+                    {
+                        "x": 0,
+                        "y": 9
+                    },
+                    {
+                        "x": 0,
+                        "y": 8
+                    }
+                ],
+                "head": {
+                    "x": 1,
+                    "y": 9
+                },
+                "length": 5,
+                "shout": "Makes us"
+            },
+            {
+                "id": "gs_tbb8FRFYVpPvmTBw6m8wKX8X",
+                "name": "reference-snake",
+                "health": 80,
+                "body": [
+                    {
+                        "x": 4,
+                        "y": 10
+                    },
+                    {
+                        "x": 5,
+                        "y": 10
+                    },
+                    {
+                        "x": 6,
+                        "y": 10
+                    }
+                ],
+                "head": {
+                    "x": 4,
+                    "y": 10
+                },
+                "length": 3,
+                "shout": "Makes us"
+            }
+        ]
+    },
+    "you": {
+        "id": "gs_tbb8FRFYVpPvmTBw6m8wKX8X",
+        "name": "reference-snake",
+        "health": 80,
+        "body": [
+            {
+                "x": 4,
+                "y": 10
+            },
+            {
+                "x": 5,
+                "y": 10
+            },
+            {
+                "x": 6,
+                "y": 10
+            }
+        ],
+        "head": {
+            "x": 4,
+            "y": 10
+        },
+        "length": 3,
+        "shout": "Makes us"
+    }
+}
